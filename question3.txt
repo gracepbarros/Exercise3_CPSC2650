@@ -2,4 +2,3 @@ a.
 b.
 c.
 
-slow promisse will evaporate because it will be after catch/try block
